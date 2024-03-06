@@ -3,3 +3,5 @@ a complete tutorial on installing the Chalk library error-free. Additionally, we
 
 
 watch complete tutorial here : (https://youtu.be/BwEGnATF-cc)
+
+[![CHALK LIBRARY]([https://youtu.be/BwEGnATF-cc](https://www.youtube.com/watch?v=YOUTUBE_VID)https://www.youtube.com/watch?v=BwEGnATF-cc)
