@@ -8,3 +8,9 @@ let answers = await inquirer.prompt([{
 ]);
 
 console.log(chalk.blue("Insha Allah, in " + (60 - answers.age) + " years you will be 60 years old."));
+
+
+//more code example 
+
+import chalk from "chalk";
+console.log(chalk.red.bold("subscribe youtube channel mehak alamgit to learn typescript"));
